@@ -6,4 +6,4 @@ how start jetson nano  for deep learning in  computer vision use python, pytorch
 After install image https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit
 
 
-For start use [install_for_start.sh]
+For start use [install_for_start.sh]()
